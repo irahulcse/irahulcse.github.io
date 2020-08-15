@@ -38,9 +38,9 @@ export default function Greeting(props) {
               </div>
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="⭐ Follow Me On Github"
+                  text="See My Resume"
                   newTab={true}
-                  href={greeting.portfolio_repository}
+                  href={greeting.resumeLink}
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
