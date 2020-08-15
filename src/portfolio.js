@@ -203,7 +203,7 @@ const skills = {
       ],
     },
     {
-      title: "UI/UX Design",
+      title: "UI/UX Design and Project",
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
