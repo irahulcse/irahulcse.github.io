@@ -285,7 +285,7 @@ const skills = {
         },
       ],
     },
-    
+
   ],
 };
 
@@ -298,7 +298,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/1rahulchandra1",
     },
     {
       siteName: "Leetcode",
@@ -306,7 +306,7 @@ const competitiveSites = {
       style: {
         color: "black",
       },
-      profileLink: "https://www.  .com/users/ashutosh_1919",
+      profileLink: "https://leetcode.com/irahulcse/",
     },
     {
       siteName: "Github",
@@ -314,16 +314,16 @@ const competitiveSites = {
       style: {
         color: "black ",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "http://github.com/irahulcse",
     },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
     {
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
