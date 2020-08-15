@@ -258,7 +258,7 @@ fetch(baseUrl, {
   body: JSON.stringify(query_pinned_projects),
 })
   .then((response) => response.text())
-  .then((txt) => {
+  .then((txt) => {  
     const data = JSON.parse(txt);
     // console.log(txt);
     const projects = data["data"]["user"]["pinnedItems"]["nodes"];
