@@ -53,7 +53,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack + Mobile Development",
+      title: "Full Stack + Mobile App Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React/Next.js/GraphQL",
