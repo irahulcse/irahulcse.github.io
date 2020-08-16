@@ -44,7 +44,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/rahul_99/",
+    link: "https://www.instagram.com/rahulchandra_99/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -520,10 +520,10 @@ const experience = {
           company: "Delhivery Pvt. Ltd.",
           company_url: "https://marsplayapp.com/",
           logo_path: "marsplay.png",
-          duration: "August 2020 - October 2019",
+          duration: "August 2020 -Present",
           location: "Gurugram, Haryana",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical method.",
+            " ",
           color: "#ee3c26",
         },
         {
@@ -535,7 +535,7 @@ const experience = {
           duration: "April 2020-July 2020",
           location: "Remote Work(Lockdown Due to Covid 19)",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "This is Electric Mobility Company. I have made a Route Tracking Flutter based Mobile Application(like UBER) to track the User’s journey by GPS and plotted using Google Map. I have built using Flutter/React/Google API's and track the user caleories/behaviour etc. to distinguish there potential work ",
           color: "#0071C5",
         },
         {
@@ -547,7 +547,7 @@ const experience = {
           duration: "May 2019 - July 2019",
           location: "Gurugram, Haryana, India",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "American Tower, is a Boston based Fortune 500 MNC, in which I had Designed and Developed a Full Fledged Commercially usable Web Application(Library Management System) using Java Servlets, for over 200 employees. • Created a various dynamic Dashboards/Reports(i.e. Bar Chart, Pie Chart, BoxChart etc.) using JSON and Google Chart API’s.• Full Stack Development Tools used are Java/JSP, Ajax, Git, MySQL, JSON, Servlets, Docker with Project Report in PDF.",
           color: "#0071C5",
         },
       ],
