@@ -535,7 +535,7 @@ const experience = {
           duration: "April 2020-July 2020",
           location: "Remote Work(Lockdown Due to Covid 19)",
           description:
-            "This is Electric Mobility Company. I have made a Route Tracking Flutter based Mobile Application(like UBER) to track the User’s journey by GPS and plotted using Google Map. I have built using Flutter/React/Google API's and track the user caleories/behaviour etc. to distinguish there potential work ",
+            "This is Electric Mobility Company. I have made a Route Tracking Flutter based Mobile Application(like UBER) to track the User’s journey by GPS and plotted using Google Map.  \n I have built using Flutter/React/Google API's and track the user caleories/behaviour etc. to distinguish there potential work ",
           color: "#0071C5",
         },
         {
