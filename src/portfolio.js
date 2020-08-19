@@ -202,7 +202,7 @@ const skills = {
         },
       ],
     },
-    
+
     //data science and artificial intelligennce
     {
       title: "Data Science & AI",
@@ -285,7 +285,6 @@ const skills = {
         },
       ],
     },
-
   ],
 };
 
@@ -522,15 +521,13 @@ const experience = {
           logo_path: "marsplay.png",
           duration: "August 2020 -Present",
           location: "Gurugram, Haryana",
-          description:
-            " ",
+          description: " ",
           color: "#ee3c26",
         },
         {
           title: "Mobile App Developer/SDE Intern",
           company: "Zypp Mobycy Electric Startup  ",
-          company_url:
-            "https://mobycy.com/index.php",
+          company_url: "https://mobycy.com/index.php",
           logo_path: "zypp.png",
           duration: "April 2020-July 2020",
           location: "Remote Work(Lockdown Due to Covid 19)",
@@ -541,8 +538,7 @@ const experience = {
         {
           title: "Software Development Internship",
           company: "American Tower Corporation(Fortune 500)",
-          company_url:
-            "https://www.americantower.com/",
+          company_url: "https://www.americantower.com/",
           logo_path: "americantower.png",
           duration: "May 2019 - July 2019",
           location: "Gurugram, Haryana, India",
@@ -628,7 +624,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "rahulchandra.jpg",
+    profile_image_path: "rahulchandra2.jpg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -641,8 +637,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Vikas Vihar, Sector 13 Dwarka, New Delhi-110078",
+    subtitle: "Vikas Vihar, Sector 13 Dwarka, New Delhi-110078",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
