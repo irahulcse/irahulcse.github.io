@@ -20,7 +20,9 @@ class Header extends Component {
     console.log(theme);
     const link = settings.isSplash ? "/splash" : "home";
     return (
-      <Fade top duration={1000} distance="20px">
+      //value of the header.js
+      //preovious values was 1000
+      <Fade top duration={0} distance="20px">
         <div>
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">
