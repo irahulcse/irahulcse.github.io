@@ -26,7 +26,7 @@ class SkillSection extends Component {
         {skills.data.map((skill) => {
           return (
             <div className="skills-main-div">
-              <Fade left duration={0}>
+              <Fade left duration={500}>
                 <div className="skills-image-div">
                   {/* <img
                     alt="Ashutosh is Analysing Data"
@@ -37,15 +37,15 @@ class SkillSection extends Component {
               </Fade>
 
               <div className="skills-text-div">
-                <Fade right duration={0}>
+                <Fade right duration={500}>
                   <h1 className="skills-heading" style={{ color: theme.text }}>
                     {skill.title}
                   </h1>
                 </Fade>
-                <Fade right duration={0}>
+                <Fade right duration={500}>
                   <SoftwareSkill logos={skill.softwareSkills} />
                 </Fade>
-                <Fade right duration={0}>
+                <Fade right duration={500}>
                   <div>
                     {skill.skills.map((skillSentence) => {
                       return (
