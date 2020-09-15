@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2ecfa475.chunk.css",
-    "main.js": "/static/js/main.b7df8fb6.chunk.js",
-    "main.js.map": "/static/js/main.b7df8fb6.chunk.js.map",
+    "main.js": "/static/js/main.8b356416.chunk.js",
+    "main.js.map": "/static/js/main.8b356416.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ef8fdfc.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ef8fdfc.js.map",
-    "static/js/2.4ec39177.chunk.js": "/static/js/2.4ec39177.chunk.js",
-    "static/js/2.4ec39177.chunk.js.map": "/static/js/2.4ec39177.chunk.js.map",
+    "static/js/2.4d585124.chunk.js": "/static/js/2.4d585124.chunk.js",
+    "static/js/2.4d585124.chunk.js.map": "/static/js/2.4d585124.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.166dd4de1543d2cd60a37cbbc9bad4fd.js": "/precache-manifest.166dd4de1543d2cd60a37cbbc9bad4fd.js",
+    "precache-manifest.0b95ff7ce290612453a83e60a6339932.js": "/precache-manifest.0b95ff7ce290612453a83e60a6339932.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ecfa475.chunk.css.map": "/static/css/main.2ecfa475.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -18,6 +18,7 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/chandigarh-university.jfif": "/static/media/chandigarh-university.4e7ba692.jfif",
+    "static/media/check.jpg": "/static/media/check.d7bfc60e.jpg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
@@ -55,8 +56,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7ef8fdfc.js",
-    "static/js/2.4ec39177.chunk.js",
+    "static/js/2.4d585124.chunk.js",
     "static/css/main.2ecfa475.chunk.css",
-    "static/js/main.b7df8fb6.chunk.js"
+    "static/js/main.8b356416.chunk.js"
   ]
 }

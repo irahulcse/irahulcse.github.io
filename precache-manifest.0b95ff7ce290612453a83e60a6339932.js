@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3072f60eccde849e398d7677e323ce1b",
+    "revision": "10b428e736bd6eabe09f6510fa9dd4df",
     "url": "/index.html"
   },
   {
-    "revision": "dfa0716ad1041182163f",
+    "revision": "1830b7330d8f5fdc363f",
     "url": "/static/css/main.2ecfa475.chunk.css"
   },
   {
-    "revision": "a8227e2502c10595d5a4",
-    "url": "/static/js/2.4ec39177.chunk.js"
+    "revision": "9e638135b574f7458e84",
+    "url": "/static/js/2.4d585124.chunk.js"
   },
   {
-    "revision": "dfa0716ad1041182163f",
-    "url": "/static/js/main.b7df8fb6.chunk.js"
+    "revision": "1830b7330d8f5fdc363f",
+    "url": "/static/js/main.8b356416.chunk.js"
   },
   {
     "revision": "a11ff6a1ed59e20956a5",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4e7ba69245c6c2a9153cfa16e04722b2",
     "url": "/static/media/chandigarh-university.4e7ba692.jfif"
+  },
+  {
+    "revision": "d7bfc60e3b93ebec90b9bd32ed1d4026",
+    "url": "/static/media/check.d7bfc60e.jpg"
   },
   {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
