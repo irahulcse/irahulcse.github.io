@@ -516,7 +516,7 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Web  Internship",
-          company: "Delhivery Pvt. Ltd.",
+          company: "Marsplay Internet Pvt. Ltd.",
           company_url: "https://marsplayapp.com/",
           logo_path: "marsplay.png",
           duration: "August 2020 -Present",
