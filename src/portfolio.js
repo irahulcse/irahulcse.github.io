@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Rahul Chandra",
   nickname: "irahulcse",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact. #not_the_luckiest_one",
   resumeLink:
     "https://drive.google.com/file/d/1BYZcHo9SGrI5h10fxFbtqPLz86ni_VnR/view",
   portfolio_repository: "https://github.com/irahulcse",
