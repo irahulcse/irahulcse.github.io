@@ -358,8 +358,7 @@ const certifications = {
       title: "Big Data",
       subtitle: "- Kim Akers",
       logo_path: "microsoft_logo.png",
-      certificate_link:
-            "https://github.com/irahulcse",
+      certificate_link: "https://github.com/irahulcse",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
@@ -367,8 +366,7 @@ const certifications = {
       title: "Advanced Data Science",
       subtitle: "- Romeo Kienzler",
       logo_path: "ibm_logo.png",
-      certificate_link:
-            "https://github.com/irahulcse",
+      certificate_link: "https://github.com/irahulcse",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
@@ -376,8 +374,7 @@ const certifications = {
       title: "Advanced ML on GCP",
       subtitle: "- GCP Training",
       logo_path: "google_logo.png",
-      certificate_link:
-            "https://github.com/irahulcse",
+      certificate_link: "https://github.com/irahulcse",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
@@ -385,8 +382,7 @@ const certifications = {
       title: "DL on Tensorflow",
       subtitle: "- Laurence Moroney",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-            "https://github.com/irahulcse",
+      certificate_link: "https://github.com/irahulcse",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -394,8 +390,7 @@ const certifications = {
       title: "Fullstack Development",
       subtitle: "- Jogesh Muppala",
       logo_path: "coursera_logo.png",
-      certificate_link:
-            "https://github.com/irahulcse",
+      certificate_link: "https://github.com/irahulcse",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
@@ -403,19 +398,9 @@ const certifications = {
       title: "Kuberenetes on GCP",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
-      certificate_link:
-            "https://github.com/irahulcse",
+      certificate_link: "https://github.com/irahulcse",
       alt_name: "GCP",
       color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://github.com/irahulcse",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
     },
     {
       title: "Cloud Architecture",
