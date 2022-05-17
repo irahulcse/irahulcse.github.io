@@ -50,6 +50,7 @@ class Contact extends Component {
                     newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}
+                    style={{ margin: "2px", padding: "100px" }}
                   />
                 </div>
               </div>
