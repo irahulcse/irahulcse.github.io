@@ -119,4 +119,4 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = yelGreenTheme;
+export const chosenTheme = blueTheme;
