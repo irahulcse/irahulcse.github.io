@@ -355,7 +355,7 @@ const degrees = {
       subtitle: "B.E. in Computer Science Engineering",
       logo_path: "chandigarh-university.jfif",
       alt_name: "IIITDM Kurnool",
-      duration: "2017 - Present",
+      duration: "2017 - 2021",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
