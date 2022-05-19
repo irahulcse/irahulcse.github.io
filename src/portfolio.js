@@ -338,6 +338,19 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "University of Stuttgart",
+      subtitle: "MS in Computer Science",
+      logo_path: "unistuttgart.png",
+      alt_name: "Uni of Stuttgart Kurnool",
+      duration: "2022 - Present",
+      descriptions: [
+        "⚡ Currently purusing MS in Compute Science with focus on Service Technology and Engineering",
+        // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://www.uni-stuttgart.de/",
+    },
+    {
       title: "Chandigarh University",
       subtitle: "B.E. in Computer Science Engineering",
       logo_path: "chandigarh-university.jfif",
