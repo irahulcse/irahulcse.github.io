@@ -58,7 +58,7 @@ const skills = {
       skills: [
         "⚡ Building resposive website front end using React/Next.js/GraphQL",
         "⚡ Developing mobile applications using Flutter and React Native",
-        "⚡ Creating application backend in Node, GraphQL and Firebase",
+        "⚡ Creating application backend in React, GraphQL and Firebase",
       ],
       softwareSkills: [
         {
@@ -139,8 +139,9 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud(GCP) to use on mobile devices for Machine Learning Projects",
+        "⚡ Worked on different CI/CD tools of cloud platofors like Google Cloud, Microsoft Azure",
+        // "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        // "⚡ Deploying deep learning models on cloud(GCP) to use on mobile devices for Machine Learning Projects",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and Microsoft Azure",
       ],
       softwareSkills: [
@@ -210,7 +211,7 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Created small models for dynamic forecasting and used in projects.",
       ],
       softwareSkills: [
         {
@@ -246,45 +247,45 @@ const skills = {
       ],
     },
 
-    {
-      title: "UI/UX Design and Project",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "UI/UX Design and Project",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and building logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Adobe XD",
+    //       fontAwesomeClassname: "simple-icons:adobexd",
+    //       style: {
+    //         color: "#FF2BC2",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Figma",
+    //       fontAwesomeClassname: "simple-icons:figma",
+    //       style: {
+    //         color: "#F24E1E",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Illustrator",
+    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+    //       style: {
+    //         color: "#FF7C00",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Inkscape",
+    //       fontAwesomeClassname: "simple-icons:inkscape",
+    //       style: {
+    //         color: "#000000",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -586,7 +587,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Vikas Vihar, Sector 13 Dwarka, New Delhi-110078",
+    subtitle: "45, Yemen street, Yemen (Friends)🤣🤣",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
