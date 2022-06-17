@@ -1,1 +1,14 @@
-{"data":[{"login":"LiberTEM","avatarUrl":"https://avatars0.githubusercontent.com/u/35299996?v=4","__typename":"Organization"},{"login":"flutter","avatarUrl":"https://avatars3.githubusercontent.com/u/14101776?v=4","__typename":"Organization"},{"login":"campus-experts","avatarUrl":"https://avatars2.githubusercontent.com/u/21289761?v=4","__typename":"Organization"},{"login":"Faces-Labs","avatarUrl":"https://avatars1.githubusercontent.com/u/68534048?v=4","__typename":"Organization"}]}
+{
+  "data": [
+    {
+      "login": "fun-at-work",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87939116?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "semanux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70582453?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
