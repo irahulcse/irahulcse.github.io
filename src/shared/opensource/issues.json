@@ -1,1 +1,259 @@
-{"data":[{"id":"MDU6SXNzdWU2MDI5NTkyMTU=","closed":true,"title":"Rover' Guide","createdAt":"2020-04-20T05:46:00Z","url":"https://github.com/flutter/samples/issues/418","number":418,"assignees":{"nodes":[]},"repository":{"name":"samples","url":"https://github.com/flutter/samples","owner":{"login":"flutter","avatarUrl":"https://avatars3.githubusercontent.com/u/14101776?v=4","url":"https://github.com/flutter"}}},{"id":"MDU6SXNzdWU1MTI4MjkzODQ=","closed":false,"title":"Update the repo as soon as someone made changes!","createdAt":"2019-10-26T12:24:03Z","url":"https://github.com/irahulcse/NASA-SPACE-APP-CHALLENGE-2019/issues/1","number":1,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/34218254?u=d31ccc21cb0c1f8a82109d3ce2a732308653322f&v=4","name":"Rahul Chandra","url":"https://github.com/irahulcse"}]},"repository":{"name":"NASA-SPACE-APP-CHALLENGE-2019","url":"https://github.com/irahulcse/NASA-SPACE-APP-CHALLENGE-2019","owner":{"login":"irahulcse","avatarUrl":"https://avatars1.githubusercontent.com/u/34218254?u=d31ccc21cb0c1f8a82109d3ce2a732308653322f&v=4","url":"https://github.com/irahulcse"}}},{"id":"MDU6SXNzdWU0MTY0NzQwODA=","closed":true,"title":"Regarding the Installation","createdAt":"2019-03-03T04:20:49Z","url":"https://github.com/ctlearn-project/ctlearn/issues/91","number":91,"assignees":{"nodes":[]},"repository":{"name":"ctlearn","url":"https://github.com/ctlearn-project/ctlearn","owner":{"login":"ctlearn-project","avatarUrl":"https://avatars2.githubusercontent.com/u/41166808?v=4","url":"https://github.com/ctlearn-project"}}},{"id":"MDU6SXNzdWU0MDg1NjM0NDc=","closed":true,"title":"Setting Up of the Postgres(Database).","createdAt":"2019-02-10T18:27:17Z","url":"https://github.com/commudle/commudle/issues/27","number":27,"assignees":{"nodes":[]},"repository":{"name":"commudle","url":"https://github.com/commudle/commudle","owner":{"login":"commudle","avatarUrl":"https://avatars2.githubusercontent.com/u/66256000?v=4","url":"https://github.com/commudle"}}},{"id":"MDU6SXNzdWU0MDgyMDEwNzI=","closed":true,"title":"Not able to install the Zulip Desktop App in Ubuntu 18.04","createdAt":"2019-02-07T03:30:19Z","url":"https://github.com/zulip/zulip-desktop/issues/648","number":648,"assignees":{"nodes":[]},"repository":{"name":"zulip-desktop","url":"https://github.com/zulip/zulip-desktop","owner":{"login":"zulip","avatarUrl":"https://avatars2.githubusercontent.com/u/4921959?v=4","url":"https://github.com/zulip"}}},{"id":"MDU6SXNzdWUzNzcxNjAzMTM=","closed":true,"title":"Resolve the cannot remove confilict of melix-default-settings","createdAt":"2018-11-04T14:52:40Z","url":"https://github.com/fossasia/meilix/issues/329","number":329,"assignees":{"nodes":[]},"repository":{"name":"meilix","url":"https://github.com/fossasia/meilix","owner":{"login":"fossasia","avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","url":"https://github.com/fossasia"}}},{"id":"MDU6SXNzdWUzNjYzMjM3Mzc=","closed":true,"title":"Spyder Not Launching from Anaconda-Navigator","createdAt":"2018-10-03T12:50:53Z","url":"https://github.com/ContinuumIO/anaconda-issues/issues/10142","number":10142,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/3627835?u=31fa35bb158e819202b5252f14c3b61e71d0b49e&v=4","name":"Gonzalo Peña-Castellanos","url":"https://github.com/goanpeca"}]},"repository":{"name":"anaconda-issues","url":"https://github.com/ContinuumIO/anaconda-issues","owner":{"login":"ContinuumIO","avatarUrl":"https://avatars3.githubusercontent.com/u/1158637?v=4","url":"https://github.com/ContinuumIO"}}},{"id":"MDU6SXNzdWUzNTgzMTU5Nzg=","closed":false,"title":"Currency Converter","createdAt":"2018-09-08T18:02:07Z","url":"https://github.com/mozilla/donate.mozilla.org/issues/2067","number":2067,"assignees":{"nodes":[]},"repository":{"name":"donate.mozilla.org","url":"https://github.com/mozilla/donate.mozilla.org","owner":{"login":"mozilla","avatarUrl":"https://avatars2.githubusercontent.com/u/131524?v=4","url":"https://github.com/mozilla"}}},{"id":"MDU6SXNzdWUzMzUxNzE5NDQ=","closed":false,"title":"Regarding Time Changing System","createdAt":"2018-06-24T11:27:49Z","url":"https://github.com/irahulcse/LibraryManagementSystem/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"LibraryManagementSystem","url":"https://github.com/irahulcse/LibraryManagementSystem","owner":{"login":"irahulcse","avatarUrl":"https://avatars1.githubusercontent.com/u/34218254?u=d31ccc21cb0c1f8a82109d3ce2a732308653322f&v=4","url":"https://github.com/irahulcse"}}}],"open":3,"closed":6,"totalCount":9}
+{
+  "closed": 9,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU3MDQxMTY2MjQ=",
+      "closed": true,
+      "title": "chess|move|a7a5|5638",
+      "createdAt": "2020-09-18T06:08:15Z",
+      "url": "https://github.com/timburgan/timburgan/issues/5650",
+      "number": 5650,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "timburgan",
+        "url": "https://github.com/timburgan/timburgan",
+        "owner": {
+          "login": "timburgan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=483bdc105e203fa29192772aa0b57af3d822bd25&v=4",
+          "url": "https://github.com/timburgan"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MDQxMTYwOTY=",
+      "closed": true,
+      "title": "chess|move|b7b5|5638",
+      "createdAt": "2020-09-18T06:07:09Z",
+      "url": "https://github.com/timburgan/timburgan/issues/5649",
+      "number": 5649,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "timburgan",
+        "url": "https://github.com/timburgan/timburgan",
+        "owner": {
+          "login": "timburgan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=483bdc105e203fa29192772aa0b57af3d822bd25&v=4",
+          "url": "https://github.com/timburgan"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MDAwNjk0NTU=",
+      "closed": true,
+      "title": "chess|move|a2b4|5411",
+      "createdAt": "2020-09-12T05:17:33Z",
+      "url": "https://github.com/timburgan/timburgan/issues/5428",
+      "number": 5428,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "timburgan",
+        "url": "https://github.com/timburgan/timburgan",
+        "owner": {
+          "login": "timburgan",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=483bdc105e203fa29192772aa0b57af3d822bd25&v=4",
+          "url": "https://github.com/timburgan"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MDI5NTkyMTU=",
+      "closed": true,
+      "title": "Rover' Guide",
+      "createdAt": "2020-04-20T05:46:00Z",
+      "url": "https://github.com/flutter/samples/issues/418",
+      "number": 418,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "samples",
+        "url": "https://github.com/flutter/samples",
+        "owner": {
+          "login": "flutter",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4",
+          "url": "https://github.com/flutter"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1MTI4MjkzODQ=",
+      "closed": false,
+      "title": "Update the repo as soon as someone made changes!",
+      "createdAt": "2019-10-26T12:24:03Z",
+      "url": "https://github.com/irahulcse/NASA-SPACE-APP-CHALLENGE-2019/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=4cb478610e839e164b2711985cd9ef4c33f0a5e3&v=4",
+            "name": "Rahul Chandra",
+            "url": "https://github.com/irahulcse"
+          }
+        ]
+      },
+      "repository": {
+        "name": "NASA-SPACE-APP-CHALLENGE-2019",
+        "url": "https://github.com/irahulcse/NASA-SPACE-APP-CHALLENGE-2019",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=4cb478610e839e164b2711985cd9ef4c33f0a5e3&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU0MTY0NzQwODA=",
+      "closed": true,
+      "title": "Regarding the Installation",
+      "createdAt": "2019-03-03T04:20:49Z",
+      "url": "https://github.com/ctlearn-project/ctlearn/issues/91",
+      "number": 91,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ctlearn",
+        "url": "https://github.com/ctlearn-project/ctlearn",
+        "owner": {
+          "login": "ctlearn-project",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/41166808?v=4",
+          "url": "https://github.com/ctlearn-project"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU0MDg1NjM0NDc=",
+      "closed": true,
+      "title": "Setting Up of the Postgres(Database).",
+      "createdAt": "2019-02-10T18:27:17Z",
+      "url": "https://github.com/commudle/commudle/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "commudle",
+        "url": "https://github.com/commudle/commudle",
+        "owner": {
+          "login": "commudle",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/66256000?v=4",
+          "url": "https://github.com/commudle"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU0MDgyMDEwNzI=",
+      "closed": true,
+      "title": "Not able to install the Zulip Desktop App in Ubuntu 18.04",
+      "createdAt": "2019-02-07T03:30:19Z",
+      "url": "https://github.com/zulip/zulip-desktop/issues/648",
+      "number": 648,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "zulip-desktop",
+        "url": "https://github.com/zulip/zulip-desktop",
+        "owner": {
+          "login": "zulip",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4921959?v=4",
+          "url": "https://github.com/zulip"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzNzcxNjAzMTM=",
+      "closed": true,
+      "title": "Resolve the cannot remove confilict of melix-default-settings",
+      "createdAt": "2018-11-04T14:52:40Z",
+      "url": "https://github.com/fossasia/meilix/issues/329",
+      "number": 329,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "meilix",
+        "url": "https://github.com/fossasia/meilix",
+        "owner": {
+          "login": "fossasia",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6295529?v=4",
+          "url": "https://github.com/fossasia"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzNjYzMjM3Mzc=",
+      "closed": true,
+      "title": "Spyder Not Launching from Anaconda-Navigator",
+      "createdAt": "2018-10-03T12:50:53Z",
+      "url": "https://github.com/ContinuumIO/anaconda-issues/issues/10142",
+      "number": 10142,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3627835?u=61b545f983433b200633b644379b307ea98c919b&v=4",
+            "name": "Gonzalo Peña-Castellanos",
+            "url": "https://github.com/goanpeca"
+          }
+        ]
+      },
+      "repository": {
+        "name": "anaconda-issues",
+        "url": "https://github.com/ContinuumIO/anaconda-issues",
+        "owner": {
+          "login": "ContinuumIO",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1158637?v=4",
+          "url": "https://github.com/ContinuumIO"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzNTgzMTU5Nzg=",
+      "closed": false,
+      "title": "Currency Converter",
+      "createdAt": "2018-09-08T18:02:07Z",
+      "url": "https://github.com/mozilla/donate.mozilla.org/issues/2067",
+      "number": 2067,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "donate.mozilla.org",
+        "url": "https://github.com/mozilla/donate.mozilla.org",
+        "owner": {
+          "login": "mozilla",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/131524?v=4",
+          "url": "https://github.com/mozilla"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWUzMzUxNzE5NDQ=",
+      "closed": false,
+      "title": "Regarding Time Changing System",
+      "createdAt": "2018-06-24T11:27:49Z",
+      "url": "https://github.com/irahulcse/LibraryManagementSystem/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "LibraryManagementSystem",
+        "url": "https://github.com/irahulcse/LibraryManagementSystem",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=4cb478610e839e164b2711985cd9ef4c33f0a5e3&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    }
+  ],
+  "open": 3,
+  "totalCount": 12
+}

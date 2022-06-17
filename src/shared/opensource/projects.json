@@ -1,1 +1,22 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyMzY1MjAwMjA=","name":"A-Complete-Guide-To-Flutter","createdAt":"2020-01-27T15:16:38Z","url":"https://github.com/irahulcse/A-Complete-Guide-To-Flutter","description":"This repo contains all the small snippets related to Flutter Apps. Most of the projects/apps are deployed on Flutter Web using GitHub Actions CI Pipeline.","isFork":false,"languages":[]},{"id":"MDEwOlJlcG9zaXRvcnkxOTE4NzgzNjc=","name":"ATC-Booktique","createdAt":"2019-06-14T05:00:06Z","url":"https://github.com/irahulcse/ATC-Booktique","description":"An JSP based Library Management System fully automated to fastening the process to issue and return book by 80%.","isFork":false,"languages":[{"name":"Java","iconifyClass":"logos-java"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMzY1MjAwMjA=",
+      "name": "A-Complete-Guide-To-Flutter",
+      "createdAt": "2020-01-27T15:16:38Z",
+      "url": "https://github.com/irahulcse/A-Complete-Guide-To-Flutter",
+      "description": "This repo contains all the small snippets related to Flutter Apps. Most of the projects/apps are deployed on Flutter Web using GitHub Actions CI Pipeline.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMzIwNzM1MDU=",
+      "name": "Flutter-UI-Amazon-Clone-with-Integerated-Payment-Gateway",
+      "createdAt": "2020-01-06T10:05:58Z",
+      "url": "https://github.com/irahulcse/Flutter-UI-Amazon-Clone-with-Integerated-Payment-Gateway",
+      "description": "Created a Mobile-Based/Web-based Flutter named as Amazon UI Clone with Square's Payment Gateway System  Application in Flutter. This project is an Umbrella Project under the Complete Guides to Flutter(Main Flutter Repo).",
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}
