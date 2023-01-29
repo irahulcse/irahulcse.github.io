@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact. #not_the_luckiest_one",
   resumeLink:
-    "https://drive.google.com/file/d/1QQwruTmAHPxL6ySEHurtEdO19wEq--FK/view",
+    "https://drive.google.com/file/d/1Hb1mttr029AEY3mkIwFR_CC3fhot7vJs/view?usp=sharing",
   portfolio_repository: "https://github.com/irahulcse",
 };
 
@@ -475,8 +475,78 @@ const experience = {
     //   ],
     // },
     {
+      title: "Full Time Experience",
+      experiences: [
+        {
+          title: "Software Engineer - (Devops and Frontend)",
+          company: "GroupM GmBH",
+          company_url: "https://www.groupm.com/about/?utm_source=linkedin",
+          logo_path: "groupm.png",
+          duration: "October 2022 -Present",
+          location: "Dusseldorf, Germany",
+          description:
+            "GroupM is an umbrella organisation of WPP Inc (the world's largest digital media and marketing agency).",
+          color: "#ee3c26",
+        },
+        {
+          title: "Werkstudent - Research and Development",
+          company: "Vitrum GmBH",
+          company_url: "https://vitrum-connect.de/",
+          logo_path: "vitrum.jpeg",
+          duration: "June 2022 - Sep 2022",
+          location: "Berlin, Germany ",
+          description:
+            "Currently working on making optimization of artificial irrigation on agriculture land using AI and 5G technology.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Research Assistant",
+          company: "Semanux",
+          company_url: "https://www.semanux.com",
+          logo_path: "semanux.jpeg",
+          duration: "May 2022 - Aug 2022",
+          location: "Stuttgart, Germany",
+          description: "Contributing to making the web inclusive for all.",
+          color: "#0071C5",
+        },
+        {
+          title: "SDE 1 (Frontend and Devops)",
+          company: "Zaamo",
+          company_url: "https://www.zaamo.co",
+          logo_path: "zaamo.jpeg",
+          duration: "Sep 2021 - Mar 2022",
+          location: "Hauzkhas, New Delhi, India",
+          description:
+            "Developing an Ecommerce web app in React/Next.js with tech stack as TypeScript, GraphQL and Saleor. In my next stint here, Got a chance to utilize my DevOps skills to bring efficiency to the SDLC. From creating CI/CD pipelines using Github Actions, dockerization, to migrating existing infra from GCP to AWS and adding various analytics services like GA, Amplitude and Hotjar to track user behaviour and gather data and pushing to our backend.",
+          color: "#0071C5",
+        },
+      ],
+    },
+    {
       title: "Internships",
       experiences: [
+        {
+          title: "DevOps Engineer Intern",
+          company: "Apop International Pvt Ltd",
+          company_url: "https://www.google.com/",
+          logo_path: "apop.jpeg",
+          duration: "Feb 2021 -Aug, 2021",
+          location: "Mumbai, Haryana(Remote)",
+          description:
+            "Achievement: Single-handedly automated and shifted the entire software and architecture from legacy CtrlS Datacenter/Env's to Microsoft Azure Hybrid Infra via CI/CD, Azure DevOps, etc. Received PPO before the completion of Internship. Leveraged knowledge in ASP.NET, Azure Cloud, and Azure DevOps. Will soon write a blog about my learnings.",
+          color: "#e28743",
+        },
+        {
+          title: "SDE Intern",
+          company: "Mosaic Wellness",
+          company_url: "https://www.mosaicwellness.in/",
+          logo_path: "mosaic.jpeg",
+          duration: "December 2020 -Feb, 2021",
+          location: "Mumbai, Haryana(Remote)",
+          description:
+            "Contributed to developing Mosaic Manmatters React and Android app.",
+          color: "#e28743",
+        },
         {
           title: "Full Stack Web  Internship",
           company: "Marsplay Internet Pvt. Ltd.",
