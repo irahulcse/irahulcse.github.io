@@ -100,7 +100,7 @@ const query_pinned_projects = {
   query: `
 	query { 
 	  user(login: "${openSource.githubUserName}") { 
-	    pinnedItems(first: 2, types: REPOSITORY) {
+	    pinnedItems(first: 20, types: REPOSITORY) {
 	      totalCount
 	      nodes{
 	        ... on Repository{
