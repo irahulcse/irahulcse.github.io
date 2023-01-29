@@ -1,8 +1,0 @@
-#!/bin/sh
-node datafetcher.js
-npm run build
-npm run deploy
-git pull origin master
-git add .
-git commit -m "First Commit at `date +%F-%T`"
-git push -f origin master
