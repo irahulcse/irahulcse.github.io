@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e4d3112a8e7a0253a2de0762d606c47",
+    "revision": "9ca0fbb900ef8e87ee0120e7fc97589b",
     "url": "/index.html"
   },
   {
-    "revision": "7f9e1aff006ce1a2591c",
-    "url": "/static/css/main.2ecfa475.chunk.css"
+    "revision": "c4e33aeec275e7b65707",
+    "url": "/static/css/main.01a2094b.chunk.css"
   },
   {
-    "revision": "8e867745544c1c312765",
-    "url": "/static/js/2.2f76654d.chunk.js"
+    "revision": "1ac726caaf508663c2b5",
+    "url": "/static/js/2.b9a26fe2.chunk.js"
   },
   {
-    "revision": "7f9e1aff006ce1a2591c",
-    "url": "/static/js/main.32c627b2.chunk.js"
+    "revision": "c4e33aeec275e7b65707",
+    "url": "/static/js/main.03e2805f.chunk.js"
   },
   {
-    "revision": "a11ff6a1ed59e20956a5",
-    "url": "/static/js/runtime-main.7ef8fdfc.js"
+    "revision": "1c01524a240217d8767e",
+    "url": "/static/js/runtime-main.12a31faf.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/americantower.75c70640.png"
   },
   {
-    "revision": "a633be2faf9b129259563d65d0aa1333",
-    "url": "/static/media/animated_logo.a633be2f.svg"
+    "revision": "52e0714e5ea7e3b96f50dbfb62de21d1",
+    "url": "/static/media/animated_logo.52e0714e.svg"
   },
   {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-brands-400.5063b105.eot"
   },
   {
-    "revision": "9d204f50ec8e5bcc5dcda0132d404b48",
-    "url": "/static/media/fa-brands-400.9d204f50.svg"
+    "revision": "a9c4bb7348f42626454c988dbde1d0a0",
+    "url": "/static/media/fa-brands-400.a9c4bb73.svg"
   },
   {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
@@ -136,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "9443c1e7fdf95d739af3f0901224f90a",
-    "url": "/static/media/fa-regular-400.9443c1e7.svg"
+    "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
+    "url": "/static/media/fa-regular-400.7b9568e6.svg"
   },
   {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
@@ -160,16 +160,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.333bae20.woff"
   },
   {
-    "revision": "3d102342391af184d5ae9e7708d8220f",
-    "url": "/static/media/fa-solid-900.3d102342.svg"
-  },
-  {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
     "url": "/static/media/fa-solid-900.44d537ab.woff2"
   },
   {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
+  },
+  {
+    "revision": "c2801fb415f03c7b170934769d7b5397",
+    "url": "/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
     "revision": "a73310ea0ad8aebedb65b3106024427a",
@@ -256,12 +256,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/stanford_logo.da0e7c80.png"
   },
   {
-    "revision": "de3da8064f2e9ffab945772c2c67e46f",
-    "url": "/static/media/talksCardBack.de3da806.svg"
+    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
+    "url": "/static/media/talksCardBack.0288c5ec.svg"
   },
   {
-    "revision": "7f0feeedda08cf7d68593454bc2e82b5",
-    "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
+    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
+    "url": "/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
