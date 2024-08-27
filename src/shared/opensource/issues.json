@@ -1,6 +1,1796 @@
 {
-  "closed": 9,
+  "closed": 23,
   "data": [
+    {
+      "id": "I_kwDOJi-T_85vDTN7",
+      "closed": false,
+      "title": "Creating some ETL pipeline to get the posts from the backend ",
+      "createdAt": "2023-08-23T11:24:54Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/105",
+      "number": 105,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCnGf",
+      "closed": false,
+      "title": "Youtube Shorts like something for student about the university but only when the students have followed on the univesity site itself.",
+      "createdAt": "2023-08-23T09:38:16Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/104",
+      "number": 104,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCcXf",
+      "closed": false,
+      "title": "Send Email Notifications informing about the various Notifications",
+      "createdAt": "2023-08-23T09:14:59Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/103",
+      "number": 103,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCST5",
+      "closed": false,
+      "title": "Message Chat Screen Need to optimised for Mobile Device",
+      "createdAt": "2023-08-23T08:50:54Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/102",
+      "number": 102,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCN4J",
+      "closed": false,
+      "title": "[LONG TERM] Course wise inside the university",
+      "createdAt": "2023-08-23T08:39:49Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/101",
+      "number": 101,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCF27",
+      "closed": false,
+      "title": "Release Cycle Management System ",
+      "createdAt": "2023-08-23T08:19:50Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/100",
+      "number": 100,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCEzB",
+      "closed": false,
+      "title": "Setting up Discord Server ",
+      "createdAt": "2023-08-23T08:17:55Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/99",
+      "number": 99,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vCDco",
+      "closed": false,
+      "title": "Card on the top of university verified or not so that the student can know that this is a verified university or not, or the content is just coming from the student council/groups only. ",
+      "createdAt": "2023-08-23T08:14:47Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/98",
+      "number": 98,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85vBxbV",
+      "closed": false,
+      "title": "Usage and Cost of the Firebase Billing needs to be checked",
+      "createdAt": "2023-08-23T07:27:58Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/97",
+      "number": 97,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85uvO-V",
+      "closed": false,
+      "title": "Auto prompt of the message something like LinkedIn have it",
+      "createdAt": "2023-08-19T21:13:31Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/96",
+      "number": 96,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85uui8i",
+      "closed": false,
+      "title": "Auto Logout Feature after 21 days of inactivity",
+      "createdAt": "2023-08-19T12:25:25Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/95",
+      "number": 95,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85ue5JG",
+      "closed": false,
+      "title": "There is a need to make the landing page more attractive and better try to make it more like a LinkedIn",
+      "createdAt": "2023-08-16T16:48:16Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/94",
+      "number": 94,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85ubHer",
+      "closed": false,
+      "title": "Fixing the search in it's all the possible ways ",
+      "createdAt": "2023-08-16T06:34:32Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/93",
+      "number": 93,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85sOClN",
+      "closed": false,
+      "title": "Implementing the Infinte scrolling stuff throughout the application",
+      "createdAt": "2023-07-21T11:08:32Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/92",
+      "number": 92,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85r_rL1",
+      "closed": false,
+      "title": "Create a footer and also accept the cookie with GDPR guidelines or something like that, how it is done on other websites.",
+      "createdAt": "2023-07-19T12:35:04Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/91",
+      "number": 91,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85r-4z_",
+      "closed": false,
+      "title": "Show the popup box using Material UI or something like Google Calendar and also try to access all the functionality of the ",
+      "createdAt": "2023-07-19T10:25:45Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/90",
+      "number": 90,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85r-4ZJ",
+      "closed": false,
+      "title": "Show the Year view also in the Uniconnect calendar event.",
+      "createdAt": "2023-07-19T10:24:41Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/89",
+      "number": 89,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85r-0oU",
+      "closed": false,
+      "title": "Green Dot next to the Profile picture to show if the person is online or not, ",
+      "createdAt": "2023-07-19T10:14:34Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/88",
+      "number": 88,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85r6hib",
+      "closed": false,
+      "title": "Option to delete the notification something like  LinkedIN. ",
+      "createdAt": "2023-07-18T18:49:01Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/87",
+      "number": 87,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85r6hQd",
+      "closed": false,
+      "title": "Auto sign in feature to show the option to SignIn Google. ",
+      "createdAt": "2023-07-18T18:48:26Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/86",
+      "number": 86,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rqKuf",
+      "closed": false,
+      "title": "Mobile View: Notification there is a need of padding on it.",
+      "createdAt": "2023-07-15T16:39:53Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/85",
+      "number": 85,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rqKsK",
+      "closed": false,
+      "title": "Remove the message option on the mobile device",
+      "createdAt": "2023-07-15T16:39:26Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/84",
+      "number": 84,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rjXql",
+      "closed": false,
+      "title": "Referral link on clicking the project is not working",
+      "createdAt": "2023-07-14T08:16:30Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/83",
+      "number": 83,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rfWeJ",
+      "closed": false,
+      "title": "Option to upload the PDF and show it like the LinkedIn show on it ",
+      "createdAt": "2023-07-13T16:33:59Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/81",
+      "number": 81,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rUqw0",
+      "closed": false,
+      "title": "Alumni Section",
+      "createdAt": "2023-07-12T09:36:50Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/80",
+      "number": 80,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rPviq",
+      "closed": false,
+      "title": "Leaderboard",
+      "createdAt": "2023-07-11T16:13:55Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/79",
+      "number": 79,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85rApE5",
+      "closed": false,
+      "title": "Forget Password Option",
+      "createdAt": "2023-07-09T10:19:07Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/78",
+      "number": 78,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85q0L5M",
+      "closed": false,
+      "title": "Insta story like something for the Uni Connect website.",
+      "createdAt": "2023-07-06T18:52:05Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/77",
+      "number": 77,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qozyR",
+      "closed": false,
+      "title": "Something like Daad to filter college on the basis of the ranking, etc. ",
+      "createdAt": "2023-07-05T08:48:08Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/76",
+      "number": 76,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qV4I-",
+      "closed": false,
+      "title": "A page to explore about the different universities page and also there curriculum.",
+      "createdAt": "2023-07-01T17:54:55Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/75",
+      "number": 75,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qV4GQ",
+      "closed": false,
+      "title": "Top Universities selected by You !!. Give them ranking or something.",
+      "createdAt": "2023-07-01T17:54:36Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/74",
+      "number": 74,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qVqG0",
+      "closed": false,
+      "title": "Firebase App Auth Domain Addition and Fixing the email and other related thing",
+      "createdAt": "2023-07-01T16:27:06Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/73",
+      "number": 73,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qVSge",
+      "closed": false,
+      "title": "There is a need to refresh if signed with Google, find the issue, I believe we need to clear the localstorage of that person email id.",
+      "createdAt": "2023-07-01T14:22:15Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/72",
+      "number": 72,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qU3EI",
+      "closed": false,
+      "title": "Display notification more like a toast or something in good Ui with the message, but how to show in mobile, we need to figure it out.",
+      "createdAt": "2023-07-01T12:10:06Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/71",
+      "number": 71,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qU2A-",
+      "closed": false,
+      "title": "How to make React app to react native app.",
+      "createdAt": "2023-07-01T12:05:16Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/70",
+      "number": 70,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qUrhg",
+      "closed": false,
+      "title": "Sepearate page inside the university page for the alumni tab and also something to join and follow it.",
+      "createdAt": "2023-07-01T10:54:50Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/69",
+      "number": 69,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qRzzX",
+      "closed": false,
+      "title": "Copy Link to Profile and send it in a message.",
+      "createdAt": "2023-06-30T19:21:51Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/68",
+      "number": 68,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qPRih",
+      "closed": false,
+      "title": "Different options in the events ",
+      "createdAt": "2023-06-30T11:44:41Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/67",
+      "number": 67,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qPP9E",
+      "closed": true,
+      "title": "Notification is getting like 138 hours ago, something changed to some days ago like that.",
+      "createdAt": "2023-06-30T11:39:10Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/66",
+      "number": 66,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qL9GM",
+      "closed": false,
+      "title": "Receive the unread notification , notification via email something like LinkedIn and Facebook Does. ",
+      "createdAt": "2023-06-29T21:09:13Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/65",
+      "number": 65,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qL8_n",
+      "closed": false,
+      "title": "Create a Master Event for all the student/users and also they need to receive the notification on their web.",
+      "createdAt": "2023-06-29T21:08:50Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/64",
+      "number": 64,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qL0lx",
+      "closed": false,
+      "title": "Events Page of the Universities to be the part of.",
+      "createdAt": "2023-06-29T20:39:27Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/63",
+      "number": 63,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85qLjyY",
+      "closed": false,
+      "title": "Tab for all the posts of university, your connections users and your only posts. ",
+      "createdAt": "2023-06-29T19:57:33Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/62",
+      "number": 62,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85p628Y",
+      "closed": false,
+      "title": "Show the newConnection wants to getAdded , and show accept the request something like LinkedIN. ",
+      "createdAt": "2023-06-27T13:53:03Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/61",
+      "number": 61,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85p6qY1",
+      "closed": false,
+      "title": "React-image-lazy load implementation throughout all the image in the project.",
+      "createdAt": "2023-06-27T13:34:08Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/60",
+      "number": 60,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85p6pQV",
+      "closed": false,
+      "title": "Notifications and mail for the event same like Google Calendar, it would be first to go with the notifications.",
+      "createdAt": "2023-06-27T13:32:23Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/59",
+      "number": 59,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85p6opk",
+      "closed": false,
+      "title": "scroll and then fetch the posts are compare to fetching the post all in once. ",
+      "createdAt": "2023-06-27T13:31:26Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/58",
+      "number": 58,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85p6n_U",
+      "closed": false,
+      "title": "getStatus, show the posts in some randomWay or some machine learning manner, like the top liked post shall need to be shown first something like that. ",
+      "createdAt": "2023-06-27T13:30:09Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/57",
+      "number": 57,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85p6ntP",
+      "closed": true,
+      "title": "Make the notificationsCount to be for 2 days only.",
+      "createdAt": "2023-06-27T13:29:35Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/56",
+      "number": 56,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pwtgm",
+      "closed": false,
+      "title": "Adding the option to add video and also view in a different page with a reel like feature",
+      "createdAt": "2023-06-26T09:50:27Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/55",
+      "number": 55,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pq3Hz",
+      "closed": true,
+      "title": "Sound of the notification less painful",
+      "createdAt": "2023-06-24T17:20:54Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/54",
+      "number": 54,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pkWNX",
+      "closed": false,
+      "title": "At the same page after closing website or changing the webpage.",
+      "createdAt": "2023-06-23T09:33:16Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/53",
+      "number": 53,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pj1kP",
+      "closed": true,
+      "title": "Google Sign In Component with popup name changed",
+      "createdAt": "2023-06-23T07:57:58Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/52",
+      "number": 52,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pjot5",
+      "closed": false,
+      "title": "Make the sound of the notification a little bit dimer and calmer",
+      "createdAt": "2023-06-23T07:19:49Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/51",
+      "number": 51,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pjjuE",
+      "closed": false,
+      "title": "Scroll Per Page to fetch the posts",
+      "createdAt": "2023-06-23T07:14:18Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/50",
+      "number": 50,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pjjeG",
+      "closed": false,
+      "title": "Create a dashboard for the University account so that it can show various information related to them",
+      "createdAt": "2023-06-23T07:14:01Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/49",
+      "number": 49,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pRw4a",
+      "closed": false,
+      "title": "On Scroll to fetch the resources from the api / Pagination of the APIs",
+      "createdAt": "2023-06-20T22:01:49Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/48",
+      "number": 48,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pJdCq",
+      "closed": false,
+      "title": "Page for the Connected Users list",
+      "createdAt": "2023-06-19T19:15:02Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/47",
+      "number": 47,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pFW0N",
+      "closed": false,
+      "title": "Understanding Firebase Reads and Write at Scale",
+      "createdAt": "2023-06-19T08:21:19Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/46",
+      "number": 46,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pFQkY",
+      "closed": false,
+      "title": "Realtime vs Cloud Firestore ",
+      "createdAt": "2023-06-19T08:06:07Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/45",
+      "number": 45,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pCA-q",
+      "closed": false,
+      "title": "Verified and Non verified gif for the Universities and also show that in their posts. ",
+      "createdAt": "2023-06-18T06:21:09Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/43",
+      "number": 43,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+            "name": "Rahul Chandra",
+            "url": "https://github.com/irahulcse"
+          }
+        ]
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBVal",
+      "closed": false,
+      "title": "Search based User functionality is not good. ",
+      "createdAt": "2023-06-17T18:53:14Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/41",
+      "number": 41,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBVWL",
+      "closed": false,
+      "title": "Redux Use in the component but how and why and where need to use it?",
+      "createdAt": "2023-06-17T18:52:09Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/40",
+      "number": 40,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBVSB",
+      "closed": false,
+      "title": "Firebase API Performance ",
+      "createdAt": "2023-06-17T18:51:29Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/39",
+      "number": 39,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+            "name": "Rahul Chandra",
+            "url": "https://github.com/irahulcse"
+          }
+        ]
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBUor",
+      "closed": false,
+      "title": "Get notifications if a user connects with you but you are not connected with them... Something like Facebook and Instagram ",
+      "createdAt": "2023-06-17T18:40:54Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/38",
+      "number": 38,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+            "name": "Rahul Chandra",
+            "url": "https://github.com/irahulcse"
+          }
+        ]
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBUlJ",
+      "closed": false,
+      "title": "Message unread count per user and don't count in the list those unread message who is not connected ",
+      "createdAt": "2023-06-17T18:39:53Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/37",
+      "number": 37,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+            "name": "Rahul Chandra",
+            "url": "https://github.com/irahulcse"
+          }
+        ]
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBBtB",
+      "closed": false,
+      "title": "Add Connection and Remove connection update  : By adding a new object in the Firebase",
+      "createdAt": "2023-06-17T14:29:59Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/36",
+      "number": 36,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+            "name": "Rahul Chandra",
+            "url": "https://github.com/irahulcse"
+          }
+        ]
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBBpw",
+      "closed": true,
+      "title": "Saving the post in localstorage to make it postUpdate according to it",
+      "createdAt": "2023-06-17T14:29:16Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/35",
+      "number": 35,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBBoX",
+      "closed": true,
+      "title": "Calendar component create and saving the state in localstorage",
+      "createdAt": "2023-06-17T14:28:55Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/34",
+      "number": 34,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBBCV",
+      "closed": false,
+      "title": "fixing the CSS to make it more responsive on the phone. -- half is done",
+      "createdAt": "2023-06-17T14:21:11Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBBB1",
+      "closed": true,
+      "title": "Show Notifications ",
+      "createdAt": "2023-06-17T14:21:05Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/32",
+      "number": 32,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBBBH",
+      "closed": true,
+      "title": "Added the features to connect and disconnect.",
+      "createdAt": "2023-06-17T14:20:56Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA_0",
+      "closed": false,
+      "title": "Uncommend the fetchApi changes to make sure the api are not called try to make it more performance friendly. ",
+      "createdAt": "2023-06-17T14:20:39Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/30",
+      "number": 30,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA-K",
+      "closed": false,
+      "title": "Also there is a need to make the Notification ref more efficient. ",
+      "createdAt": "2023-06-17T14:20:19Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA90",
+      "closed": true,
+      "title": "Need to make the API more streamline, as currently we have connections ref, but need to be done is that there needs to a object in the useref, which have all the connections list, so that it will be easier to just call that api. ",
+      "createdAt": "2023-06-17T14:20:14Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA9S",
+      "closed": false,
+      "title": " message chat list is not synchronised needs to be on the page while updating it.",
+      "createdAt": "2023-06-17T14:20:06Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA8x",
+      "closed": true,
+      "title": "previous image is getting delete after updating other posts. ",
+      "createdAt": "2023-06-17T14:20:00Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA8J",
+      "closed": false,
+      "title": "getting the post on the basis of the desc order.",
+      "createdAt": "2023-06-17T14:19:52Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA7Z",
+      "closed": true,
+      "title": "even for posting the new post, clearing of the previous image is not taking place frequently. ",
+      "createdAt": "2023-06-17T14:19:44Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA4o",
+      "closed": true,
+      "title": "even for posting the new post, clearing of the previous image is not taking place frequently. ",
+      "createdAt": "2023-06-17T14:19:21Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA4D",
+      "closed": false,
+      "title": "geteditdata function not working for the profile page",
+      "createdAt": "2023-06-17T14:19:15Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/22",
+      "number": 22,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA3R",
+      "closed": false,
+      "title": "Messagechat list is showing the no of connections after a while not update automatically.",
+      "createdAt": "2023-06-17T14:19:03Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBA2K",
+      "closed": false,
+      "title": "Message per person shall need to be shown which is not yet read. ",
+      "createdAt": "2023-06-17T14:18:44Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBAzk",
+      "closed": false,
+      "title": "Preview the video and post, improve the modal of the post component for the university.",
+      "createdAt": "2023-06-17T14:18:20Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBAxa",
+      "closed": false,
+      "title": "Show total no of connection as a number and also show a list of people who they follow on a sepearate page. ",
+      "createdAt": "2023-06-17T14:17:46Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBAwq",
+      "closed": false,
+      "title": "Make the page scrollable for the post update and other page",
+      "createdAt": "2023-06-17T14:17:36Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBAs_",
+      "closed": true,
+      "title": "Check the css of the Post update function",
+      "createdAt": "2023-06-17T14:17:20Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJi-T_85pBAsJ",
+      "closed": true,
+      "title": "Google Sign In Component work",
+      "createdAt": "2023-06-17T14:17:08Z",
+      "url": "https://github.com/irahulcse/uni-connect/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "uni-connect",
+        "url": "https://github.com/irahulcse/uni-connect",
+        "owner": {
+          "login": "irahulcse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
+          "url": "https://github.com/irahulcse"
+        }
+      }
+    },
     {
       "id": "MDU6SXNzdWU3MDQxMTY2MjQ=",
       "closed": true,
@@ -16,7 +1806,7 @@
         "url": "https://github.com/timburgan/timburgan",
         "owner": {
           "login": "timburgan",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=483bdc105e203fa29192772aa0b57af3d822bd25&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=2fae113cfd366da05d3905959738f3434ed894c2&v=4",
           "url": "https://github.com/timburgan"
         }
       }
@@ -36,7 +1826,7 @@
         "url": "https://github.com/timburgan/timburgan",
         "owner": {
           "login": "timburgan",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=483bdc105e203fa29192772aa0b57af3d822bd25&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=2fae113cfd366da05d3905959738f3434ed894c2&v=4",
           "url": "https://github.com/timburgan"
         }
       }
@@ -56,7 +1846,7 @@
         "url": "https://github.com/timburgan/timburgan",
         "owner": {
           "login": "timburgan",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=483bdc105e203fa29192772aa0b57af3d822bd25&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55899215?u=2fae113cfd366da05d3905959738f3434ed894c2&v=4",
           "url": "https://github.com/timburgan"
         }
       }
@@ -91,7 +1881,7 @@
       "assignees": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=60dfdfe37769c265bbdec3a2437f0252c8c8c13a&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
             "name": "Rahul Chandra",
             "url": "https://github.com/irahulcse"
           }
@@ -102,7 +1892,7 @@
         "url": "https://github.com/irahulcse/NASA-SPACE-APP-CHALLENGE-2019",
         "owner": {
           "login": "irahulcse",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=60dfdfe37769c265bbdec3a2437f0252c8c8c13a&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
           "url": "https://github.com/irahulcse"
         }
       }
@@ -248,12 +2038,12 @@
         "url": "https://github.com/irahulcse/LibraryManagementSystem",
         "owner": {
           "login": "irahulcse",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=60dfdfe37769c265bbdec3a2437f0252c8c8c13a&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/34218254?u=321d81ca575de94d0e5d3bd9d37b4f7d960f1aa8&v=4",
           "url": "https://github.com/irahulcse"
         }
       }
     }
   ],
-  "open": 3,
-  "totalCount": 12
+  "open": 77,
+  "totalCount": 100
 }

@@ -1,13 +1,8 @@
 {
   "data": [
     {
-      "login": "Simulation-Software-Engineering",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87265273?v=4",
-      "__typename": "Organization"
-    },
-    {
-      "login": "semanux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70582453?v=4",
+      "login": "Sustainathon-SMARG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149415192?v=4",
       "__typename": "Organization"
     }
   ]
