@@ -1,8 +1,8 @@
 {
   "private": true,
   "name": "sabkabaap",
-  "homepage": "https://irahulcse.github.io/",
   "version": "0.1.0",
+  "homepage": "https://irahulcse.github.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
@@ -21,7 +21,6 @@
     "gh-pages": "^2.1.1",
     "graphql": "^14.5.8",
     "node-fetch": "^2.6.0",
-    "node-sass": "^7.0.0",
     "prettier-package-json": "^2.1.3",
     "radium": "^0.26.0",
     "react": "^16.10.2",
@@ -32,6 +31,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
     "react-spring": "^8.0.27",
+    "sass": "^1.77.8",
     "styled-components": "^5.1.1",
     "styletron-engine-atomic": "^1.4.6",
     "styletron-react": "^5.2.7"
