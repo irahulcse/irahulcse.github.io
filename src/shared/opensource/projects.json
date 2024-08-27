@@ -75,6 +75,177 @@
           "iconifyClass": "logos-html-5"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzI1MTIzMTY=",
+      "name": "Iris_Species_Matplotlib_All_In_One",
+      "createdAt": "2019-02-25T13:35:47Z",
+      "url": "https://github.com/irahulcse/Iris_Species_Matplotlib_All_In_One",
+      "description": "The Kaggle Kernel in which we used all the Matplotlib and Seaborn libraries which can be used in any kind of the visualisation you wanted to perform through both of them.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzIyMTg2Mjk=",
+      "name": "Data-Science-Framework-Santander_Kaggle",
+      "createdAt": "2019-02-23T13:39:25Z",
+      "url": "https://github.com/irahulcse/Data-Science-Framework-Santander_Kaggle",
+      "description": "Worked upon the Data Visualisation which can be further used for finding the predictions and feature engineering ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzE3MjYwNzg=",
+      "name": "Heart-Disease-UCI_Kaggle",
+      "createdAt": "2019-02-20T18:19:57Z",
+      "url": "https://github.com/irahulcse/Heart-Disease-UCI_Kaggle",
+      "description": "We can find the patient is having the heart diseas from their medical reports, which can be used in medical science at a very bigger level. Different kinds of plots had been done with image already present in the repo.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzE0NzkzOTk=",
+      "name": "Student-Is-Future_Kaggle",
+      "createdAt": "2019-02-19T13:33:30Z",
+      "url": "https://github.com/irahulcse/Student-Is-Future_Kaggle",
+      "description": "The dataset used to do the analysis of the student according to the family environment and marks through which we can find out the effect of the lunch and family environment affects the performance of the student. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzEyNzc3Njg=",
+      "name": "Data-Science-Work-For-Quora",
+      "createdAt": "2019-02-18T12:10:10Z",
+      "url": "https://github.com/irahulcse/Data-Science-Work-For-Quora",
+      "description": "We are going to do the data visualisation with the Data Science Framework of Quora, so that we would be able to find the different ways of visualising the data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzA3NDIwMzA=",
+      "name": "Classical-Titanic-DataSet",
+      "createdAt": "2019-02-14T18:55:55Z",
+      "url": "https://github.com/irahulcse/Classical-Titanic-DataSet",
+      "description": "It is the classical problem from Kaggle which is used to find about the survival rate or death rate of the individual.  The prediction were quite interested according to the answer had came.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNjkwODQ1ODk=",
+      "name": "PUBG_Finish_Placements_Prediction-Exploratory-Data-Analysis-",
+      "createdAt": "2019-02-04T13:44:53Z",
+      "url": "https://github.com/irahulcse/PUBG_Finish_Placements_Prediction-Exploratory-Data-Analysis-",
+      "description": "Working on the Exploratory Data Analysis according to the different aspects like Killers,Runners,Drivers,Swimmers,Healers and Feature Enginering.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNjcwMTUyMjA=",
+      "name": "Spam_Filter",
+      "createdAt": "2019-01-22T15:13:30Z",
+      "url": "https://github.com/irahulcse/Spam_Filter",
+      "description": "It is the email spam filter which can be used to detect the malicious mails so that we can differentiate between the spam vs non spam emails.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTcyNDc2NjY=",
+      "name": "hackathon",
+      "createdAt": "2018-11-12T17:03:47Z",
+      "url": "https://github.com/DhruvKinger/hackathon",
+      "description": "International Nasa Space Apps Hackathon: Created a WebApp for a Global Challenge.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxMzg0NzQyMzY=",
+      "name": "LibraryManagementSystem",
+      "createdAt": "2018-06-24T10:53:06Z",
+      "url": "https://github.com/irahulcse/LibraryManagementSystem",
+      "description": "A simple Library Management System that includes all the OOPS concept of C++.",
+      "isFork": false,
+      "languages": []
     }
   ]
 }
