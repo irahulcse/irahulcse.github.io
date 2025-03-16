@@ -8,19 +8,19 @@ If you had like the project pls hit the star :+1: icon.
 
 The Parent Repository of this project can be found on this [link](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
 
-<!-- # Live Working Project: -->
+# Live Working Project: -->
 
-<!-- [Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/) -->
+[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
 
-<!-- ## Features Needed to Be Added:
+## Features Needed to Be Added:
 
 * [✅] Live Working Project
 * [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it. -->
+* [❌] Everything is static right now, no API integration done on it.
 
-<!-- ### Screenshots and Working GIFS: -->
+### Screenshots and Working GIFS:
 
-<!-- <img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/> -->
+<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
 
 Sorry for the quality of the GIF :pray:
 
