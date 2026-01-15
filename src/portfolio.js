@@ -338,14 +338,29 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Stuttgart",
-      subtitle: "MS in Computer Science",
-      logo_path: "unistuttgart.png",
-      alt_name: "Uni of Stuttgart Kurnool",
-      duration: "2022 - Present",
+      title: "SRH University Heidelberg",
+      subtitle: "MS in Applied Computer Science (major in Business Computing)",
+      logo_path: "srhunilogo.png",
+      alt_name: "srh university heidelberg",
+      duration: "2024 - 2026",
       descriptions: [
-        "⚡ Currently purusing MS in Compute Science with focus on Service Technology and Engineering",
-        // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ Completed my Masters in Applied Computer Science with major in Business Computing with an top overall grade",
+        "⚡ Thesis- Enhancing Security through Automated Vulnerability Scanning in Identity Management Systems (Grade 1.3)",
+        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://www.srh-university.de/en/our-campuses/heidelberg/",
+    },
+    {
+      title: "University of Stuttgart",
+      subtitle:
+        "MS in Computer Science (major in Service Technolgy Engineering)",
+      logo_path: "unistuttgartlogo.png",
+      alt_name: "uni stuttgart thing",
+      duration: "2022 - 2024",
+      descriptions: [
+        "⚡ Currently pursuing a Master's in Computer Science with a major in Service Technology and Engineering at the University Of Stuttgart.",
+        "⚡ One of the top 4 Technical universities in the field of Computer Science and Mechanical Engineering in Germany.",
+        "⚡ Topic of Thesis: Fine-Grained Energy Profiling of Hierarchical Task Network (HTN) Planners at Function and Instruction Level.",
         // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "https://www.uni-stuttgart.de/",
@@ -357,6 +372,7 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2017 - 2021",
       descriptions: [
+        "⚡ First class with distinction - Top 5% of batch.",
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
