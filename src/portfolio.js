@@ -11,9 +11,9 @@ const greeting = {
   logo_name: "Rahul Chandra",
   nickname: "irahulcse",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Software Engineer wit Double Masters in Computer Science who always thrive to work on end to end products which create large scale impacts on world.",
   resumeLink:
-    "https://drive.google.com/file/d/1FwopmdWNqtmRj_uch5nEZHWLjoRlSSno/view?usp=drive_link",
+    "https://drive.google.com/file/d/1MiGnlSLRzBhdyArr8Ylw6WCITsy-T3wz/view?usp=drive_link",
   portfolio_repository: "https://github.com/irahulcse",
 };
 
@@ -494,18 +494,29 @@ const experience = {
       title: "Full Time Experience",
       experiences: [
         {
+          title: "Software Engineer Intern / Master Thesis Student",
+          company: "inTension GmBH",
+          company_url: "https://www.intension.de/",
+          logo_path: "intensionlogo.jpeg",
+          duration: "Jan 2025 -present",
+          location: "Stuttgart, Germany",
+          description:
+            "Identity and Access Management: Keycloak Consulting, Keycloak as a Service, Keycloak PLUS",
+          color: "#0d8bda",
+        },
+        {
           title: "Software Engineer - (Devops and Frontend)",
           company: "GroupM GmBH",
           company_url: "https://www.groupm.com/about/?utm_source=linkedin",
           logo_path: "groupm.png",
-          duration: "October 2022 -Present",
+          duration: "October 2022 -March 2025",
           location: "Dusseldorf, Germany",
           description:
             "GroupM is an umbrella organisation of WPP Inc (the world's largest digital media and marketing agency).",
           color: "#ee3c26",
         },
         {
-          title: "Werkstudent - Research and Development",
+          title: "Software Engineer Intern - Research and Development",
           company: "Vitrum GmBH",
           company_url: "https://vitrum-connect.de/",
           logo_path: "vitrum.jpeg",
@@ -513,10 +524,10 @@ const experience = {
           location: "Berlin, Germany ",
           description:
             "Currently working on making optimization of artificial irrigation on agriculture land using AI and 5G technology.",
-          color: "#ee3c26",
+          color: "#170502",
         },
         {
-          title: "Research Assistant",
+          title: "Student Research Assistant",
           company: "Semanux",
           company_url: "https://www.semanux.com",
           logo_path: "semanux.jpeg",
