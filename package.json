@@ -2,7 +2,7 @@
   "private": true,
   "name": "sabkabaap",
   "version": "0.1.0",
-  "homepage": "https://irahulcse.github.io/",
+  "homepage": "www.rahulchandrajha.com",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
