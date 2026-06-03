@@ -342,11 +342,10 @@ const degrees = {
       subtitle: "MS in Applied Computer Science (major in Business Computing)",
       logo_path: "srhunilogo.png",
       alt_name: "srh university heidelberg",
-      duration: "2024 - 2026",
+      duration: "2024 - 2025",
       descriptions: [
-        "⚡ Completed my Masters in Applied Computer Science with major in Business Computing with an top overall grade",
+        "⚡ Completed my Masters in Applied Computer Science with major in Business Computing with an top overall grade of 2.1",
         "⚡ Thesis- Enhancing Security through Automated Vulnerability Scanning in Identity Management Systems (Grade 1.3)",
-        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "https://www.srh-university.de/en/our-campuses/heidelberg/",
     },
@@ -361,7 +360,6 @@ const degrees = {
         "⚡ Currently pursuing a Master's in Computer Science with a major in Service Technology and Engineering at the University Of Stuttgart.",
         "⚡ One of the top 4 Technical universities in the field of Computer Science and Mechanical Engineering in Germany.",
         "⚡ Topic of Thesis: Fine-Grained Energy Profiling of Hierarchical Task Network (HTN) Planners at Function and Instruction Level.",
-        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "https://www.uni-stuttgart.de/",
     },
@@ -494,7 +492,7 @@ const experience = {
       title: "Full Time Experience",
       experiences: [
         {
-          title: "Software Engineer Intern / Master Thesis Student",
+          title: "Full Stack Software Engineer",
           company: "inTension GmBH",
           company_url: "https://www.intension.de/",
           logo_path: "intensionlogo.jpeg",
