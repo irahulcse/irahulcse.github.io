@@ -695,13 +695,13 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "45, Yemen street, Yemen (Friends)🤣🤣",
+    subtitle: "C-9, Vikas Vihar, Sector-13, Dwarka-110078",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 859570-undefined",
+    subtitle: "+91 9217148892",
   },
 };
 
