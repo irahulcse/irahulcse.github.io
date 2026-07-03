@@ -11,9 +11,9 @@ const greeting = {
   logo_name: "Rahul Chandra",
   nickname: "irahulcse",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A Software Engineer + IAM Consultant with Masters in Computer Science who always thrive to work on end to end products and make the application safe, secure and trustworthy in digital era.",
   resumeLink:
-    "https://www.dropbox.com/scl/fi/3qesnd9jsd11egx6yk75c/Rahul_Chandra_Resume_SDE_1_2024_english_new.pdf?rlkey=eus32hsr3zudukawvauquyq48&st=bg7hlzsj&dl=0",
+    "https://drive.google.com/file/d/1MiGnlSLRzBhdyArr8Ylw6WCITsy-T3wz/view?usp=drive_link",
   portfolio_repository: "https://github.com/irahulcse",
 };
 
@@ -338,15 +338,28 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Stuttgart",
-      subtitle: "MS in Computer Science",
-      logo_path: "unistuttgart.png",
-      alt_name: "Uni of Stuttgart Kurnool",
-      duration: "2022 - Present",
+      title: "SRH University Heidelberg",
+      subtitle: "MS in Applied Computer Science (major in Business Computing)",
+      logo_path: "srhunilogo.png",
+      alt_name: "srh university heidelberg",
+      duration: "2024 - 2025",
       descriptions: [
-        "⚡ Currently purusing MS in Compute Science with focus on Service Technology and Engineering",
-        // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Completed my Masters in Applied Computer Science with major in Business Computing with an top overall grade of 2.1",
+        "⚡ Thesis- Enhancing Security through Automated Vulnerability Scanning in Identity Management Systems (Grade 1.3)",
+      ],
+      website_link: "https://www.srh-university.de/en/our-campuses/heidelberg/",
+    },
+    {
+      title: "University of Stuttgart",
+      subtitle:
+        "MS in Computer Science (major in Service Technolgy Engineering)",
+      logo_path: "unistuttgartlogo.png",
+      alt_name: "uni stuttgart thing",
+      duration: "2022 - 2024",
+      descriptions: [
+        "⚡ Currently pursuing a Master's in Computer Science with a major in Service Technology and Engineering at the University Of Stuttgart.",
+        "⚡ One of the top 4 Technical universities in the field of Computer Science and Mechanical Engineering in Germany.",
+        "⚡ Topic of Thesis: Fine-Grained Energy Profiling of Hierarchical Task Network (HTN) Planners at Function and Instruction Level.",
       ],
       website_link: "https://www.uni-stuttgart.de/",
     },
@@ -357,6 +370,7 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2017 - 2021",
       descriptions: [
+        "⚡ First class with distinction - Top 5% of batch.",
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
@@ -478,18 +492,29 @@ const experience = {
       title: "Full Time Experience",
       experiences: [
         {
+          title: "Full Stack Software Engineer / Keycloak IAM Consultant",
+          company: "inTension GmBH",
+          company_url: "https://www.intension.de/",
+          logo_path: "intensionlogo.jpeg",
+          duration: "Jan 2025 -present",
+          location: "Stuttgart, Germany",
+          description:
+            "Identity and Access Management: Keycloak Consulting, Keycloak as a Service, Keycloak PLUS",
+          color: "#0d8bda",
+        },
+        {
           title: "Software Engineer - (Devops and Frontend)",
           company: "GroupM GmBH",
           company_url: "https://www.groupm.com/about/?utm_source=linkedin",
           logo_path: "groupm.png",
-          duration: "October 2022 -Present",
+          duration: "October 2022 -March 2025",
           location: "Dusseldorf, Germany",
           description:
             "GroupM is an umbrella organisation of WPP Inc (the world's largest digital media and marketing agency).",
           color: "#ee3c26",
         },
         {
-          title: "Werkstudent - Research and Development",
+          title: "Software Engineer Intern - Research and Development",
           company: "Vitrum GmBH",
           company_url: "https://vitrum-connect.de/",
           logo_path: "vitrum.jpeg",
@@ -497,10 +522,10 @@ const experience = {
           location: "Berlin, Germany ",
           description:
             "Currently working on making optimization of artificial irrigation on agriculture land using AI and 5G technology.",
-          color: "#ee3c26",
+          color: "#170502",
         },
         {
-          title: "Research Assistant",
+          title: "Student Research Assistant",
           company: "Semanux",
           company_url: "https://www.semanux.com",
           logo_path: "semanux.jpeg",
@@ -670,13 +695,13 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "45, Yemen street, Yemen (Friends)🤣🤣",
+    subtitle: "C-9, Vikas Vihar, Sector-13, Dwarka-110078",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 859570-undefined",
+    subtitle: "+91 9217148892",
   },
 };
 
