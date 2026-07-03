@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Rahul Chandra",
   nickname: "irahulcse",
   subTitle:
-    "A Software Engineer wit Double Masters in Computer Science who always thrive to work on end to end products which create large scale impacts on world.",
+    "A Software Engineer + IAM Consultant with Masters in Computer Science who always thrive to work on end to end products and make the application safe, secure and trustworthy in digital era.",
   resumeLink:
     "https://drive.google.com/file/d/1MiGnlSLRzBhdyArr8Ylw6WCITsy-T3wz/view?usp=drive_link",
   portfolio_repository: "https://github.com/irahulcse",
@@ -492,7 +492,7 @@ const experience = {
       title: "Full Time Experience",
       experiences: [
         {
-          title: "Full Stack Software Engineer",
+          title: "Full Stack Software Engineer / Keycloak IAM Consultant",
           company: "inTension GmBH",
           company_url: "https://www.intension.de/",
           logo_path: "intensionlogo.jpeg",

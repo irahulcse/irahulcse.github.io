@@ -1,5 +1,5 @@
 #!/bin/sh
-node git_data_fetcher.js
+# node git_data_fetcher.js
 npm run deploy
 git pull origin master
 git add .
